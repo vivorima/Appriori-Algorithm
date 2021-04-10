@@ -1,0 +1,44 @@
+QPushButton
+{
+    color: rgb(73, 77, 88);
+    background-color: rgb(245, 132, 136);
+    border-width: 3px;
+    border-color: rgb(215, 215, 207);
+    border-radius: 8;
+    font-size: 24px;
+}
+
+QPushButton:pressed
+{
+    color: rgb(245, 132, 136);
+    background-color: rgb(73, 77, 88);
+}
+
+QLineEdit
+{
+    color: rgb(73, 77, 88);
+    background-color: rgb(245, 132, 136);
+    border-width: 3px;
+    border-color: rgb(215, 215, 207);
+    border-radius: 8;
+    font-size: 22px;
+
+}
+
+QLabel
+{
+    color: rgb(73, 77, 88);
+    background-color: rgb(245, 132, 136);
+    border-width: 3px;
+    border-color: rgb(215, 215, 207);
+    border-radius: 8;
+    font-size: 22px;
+}
+QListWidget
+{
+    color: white;
+    background-color: rgb(58, 58, 58);
+    border-color: rgb(58, 58, 58);
+    border-radius: 8;
+    font-size: 18px;
+}
