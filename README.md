@@ -11,4 +11,4 @@ When the user "Rima" chooses products to buy from the list A and while clicking 
 Here the user was going to buy (water, white bread, spaghetti, tuna), after selecting that (water, white bread) he asks the algorithm to guess the rest.
 If the algorithm finds association rules containing (water, white bread) it displays a second list and waits for the user to identify the rest of the products.
 If the products correspond to the itemsets found by the algorithm, they are displayed in green otherwise in red.
-![](../score.jpeg)
+![](score.jpeg)
