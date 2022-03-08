@@ -6,9 +6,9 @@ We have set up a basic identification system, each customer is identified by a u
 
 When the user "Rima" chooses products to buy from the list A and while clicking on "Play Game", the algorithm will try to guess the rest of the transaction based on the itemset A and the history of its transactions. At this stage, the algorithm will generate association rules of type A->B.
 
-![](../game.png)
+![](game.jpeg)
 
 Here the user was going to buy (water, white bread, spaghetti, tuna), after selecting that (water, white bread) he asks the algorithm to guess the rest.
 If the algorithm finds association rules containing (water, white bread) it displays a second list and waits for the user to identify the rest of the products.
 If the products correspond to the itemsets found by the algorithm, they are displayed in green otherwise in red.
-![](../score.png)
+![](../score.jpeg)
